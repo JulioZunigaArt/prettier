@@ -29,6 +29,7 @@ JSON:
   "tabWidth": 4,
   "semi": false,
   "singleQuote": true
+  "prettier.htmlSelfClosing": false
 }
 ```
 
